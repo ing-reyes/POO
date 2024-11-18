@@ -1,9 +1,9 @@
 # Programación Orientada a Objetos (POO) en TypeScript
 
-<figure style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <img style="border-radius: 100%; flex-direction: column" src="https://avatars.githubusercontent.com/u/171001900?v=4" alt="Ing. Luis Reyes" width="200">
-  <figcaption>Instructor: Ing. Luis Reyes</figcaption>
-</figure>
+  <p align="center">Instructor: Ing. Luis Reyes</p>
+</p>
 
 <p align="center">
 <a href="https://twitter.com/luisrey030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luisrey030" height="30" width="40" /></a>
